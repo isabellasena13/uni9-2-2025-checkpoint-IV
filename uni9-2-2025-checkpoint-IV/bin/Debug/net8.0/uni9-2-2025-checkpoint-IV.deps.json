@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "uni9-2-2025-checkpoint-IV/1.0.0": {
+        "runtime": {
+          "uni9-2-2025-checkpoint-IV.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "uni9-2-2025-checkpoint-IV/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,15 @@
+/workspaces/uni9-2-2025-checkpoint-IV/uni9-2-2025-checkpoint-IV/obj/Debug/net8.0/uni9-2-2025-checkpoint-IV.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/uni9-2-2025-checkpoint-IV/uni9-2-2025-checkpoint-IV/obj/Debug/net8.0/uni9-2-2025-checkpoint-IV.AssemblyInfoInputs.cache
+/workspaces/uni9-2-2025-checkpoint-IV/uni9-2-2025-checkpoint-IV/obj/Debug/net8.0/uni9-2-2025-checkpoint-IV.AssemblyInfo.cs
+/workspaces/uni9-2-2025-checkpoint-IV/uni9-2-2025-checkpoint-IV/obj/Debug/net8.0/uni9-2-2025-checkpoint-IV.csproj.CoreCompileInputs.cache
+/workspaces/uni9-2-2025-checkpoint-IV/uni9-2-2025-checkpoint-IV/obj/Debug/net8.0/uni9-2-2025-checkpoint-IV.sourcelink.json
+/workspaces/uni9-2-2025-checkpoint-IV/uni9-2-2025-checkpoint-IV/bin/Debug/net8.0/uni9-2-2025-checkpoint-IV
+/workspaces/uni9-2-2025-checkpoint-IV/uni9-2-2025-checkpoint-IV/bin/Debug/net8.0/uni9-2-2025-checkpoint-IV.deps.json
+/workspaces/uni9-2-2025-checkpoint-IV/uni9-2-2025-checkpoint-IV/bin/Debug/net8.0/uni9-2-2025-checkpoint-IV.runtimeconfig.json
+/workspaces/uni9-2-2025-checkpoint-IV/uni9-2-2025-checkpoint-IV/bin/Debug/net8.0/uni9-2-2025-checkpoint-IV.dll
+/workspaces/uni9-2-2025-checkpoint-IV/uni9-2-2025-checkpoint-IV/bin/Debug/net8.0/uni9-2-2025-checkpoint-IV.pdb
+/workspaces/uni9-2-2025-checkpoint-IV/uni9-2-2025-checkpoint-IV/obj/Debug/net8.0/uni9-2-2025-checkpoint-IV.dll
+/workspaces/uni9-2-2025-checkpoint-IV/uni9-2-2025-checkpoint-IV/obj/Debug/net8.0/refint/uni9-2-2025-checkpoint-IV.dll
+/workspaces/uni9-2-2025-checkpoint-IV/uni9-2-2025-checkpoint-IV/obj/Debug/net8.0/uni9-2-2025-checkpoint-IV.pdb
+/workspaces/uni9-2-2025-checkpoint-IV/uni9-2-2025-checkpoint-IV/obj/Debug/net8.0/uni9-2-2025-checkpoint-IV.genruntimeconfig.cache
+/workspaces/uni9-2-2025-checkpoint-IV/uni9-2-2025-checkpoint-IV/obj/Debug/net8.0/ref/uni9-2-2025-checkpoint-IV.dll

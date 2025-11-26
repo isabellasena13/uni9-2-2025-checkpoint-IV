@@ -1,16 +1,17 @@
 ﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
-public class Program
+using System;
+
+class Program
 {
- public static void Main()
-'' {
-                
-double salarioBruto = 3000.00;
- double inss = 258.83;
-CalculadoraIRRF calculadora = new CalculadoraIRRF();
+    static void Main()
+    {
+        Console.WriteLine("Digite o salário bruto:");
+        double salario = double.Parse(Console.ReadLine());
 
-double irrf = calculadora.Calcular(salarioBruto, inss);
+        Console.WriteLine("Digite o desconto do INSS:");
+        double descontoINSS = double.Parse(Console.ReadLine());
 
-Console.WriteLine("IRRF: " + irrf.ToString("F2"));
+        double irrf = CalculadoraIRRF.Calcular(salario, descontoINSS);
+        Console.WriteLine($"IRRF calculado: {irrf}");
     }
 }
